@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, my name is Chris!
+#### I create free and beautiful things.
+![I create free and beautiful things.](https://i.imgur.com/rcK5C0a.png)
 
-<!--
-**csmit195/csmit195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I first started learning to code when I was 8 years old, since then I've been involved in many different communities and used my experience to develop new and innovative creations. I can confidently say that I've had a positive impact on every community I've contributed too, and will continue to do so.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / NodeJS / PHP / MYSQL / AHK / LUA (Primarily)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on myself 
+- 🌱 I’m currently learning a bit of everything 
+- 👯 I’m looking to collaborate on VS Code 
+- 🤔 I’m looking for help with my crazy life? 
+- 💬 Ask me about literally anything 
+- 📫 How to reach me: csmit195#4729 
+- ⚡ Fun fact: I love lua. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csmit195)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csmit195)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=csmit195)  
+
