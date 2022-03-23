@@ -3,7 +3,7 @@
         <title>Redirecting...</title>
         <script type="text/javascript">
             const query = new URLSearchParams(window.location.search);
-            window.location.href = query.get('url');
+            window.open(query.get('url'));
         </script>
     </head>
 </html>
