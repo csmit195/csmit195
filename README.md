@@ -4,7 +4,7 @@
 
 I first started learning to code when I was 8 years old, since then I've been involved in many different communities and used my experience to develop new and innovative creations. I can confidently say that I've had a positive impact on every community I've contributed too, and will continue to do so.
 
-Skills: HTML / CSS / JS / NodeJS / PHP / MYSQL / AHK / LUA (Primarily)
+Skills: HTML / CSS / JS / NodeJS / PHP / MYSQL / AHK / LUA
 
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning a bit of everything 
