@@ -1,7 +1,7 @@
 {
   "recipes": [
     {
-      "name": "1",
+      "name": "Gun Barrel",
       "quantity": 1,
       "ingredients": [
         {
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Pistol Grip",
       "quantity": 1,
       "ingredients": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Metal Spring",
       "quantity": 1,
       "ingredients": [
         {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Pistol Frame",
       "quantity": 1,
       "ingredients": [
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Firing Pin",
       "quantity": 1,
       "ingredients": [
         {
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Zipties",
       "quantity": 1,
       "ingredients": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Heavy Plate",
       "quantity": 1,
       "ingredients": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Shotgun Ammo",
       "quantity": 1,
       "ingredients": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "SMG Ammo",
       "quantity": 1,
       "ingredients": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Rifle Ammo",
       "quantity": 1,
       "ingredients": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Armor",
       "quantity": 1,
       "ingredients": [
         {
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Heavy Armor",
       "quantity": 1,
       "ingredients": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Holster",
       "quantity": 1,
       "ingredients": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Dagger",
       "quantity": 1,
       "ingredients": [
         {
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Katana",
       "quantity": 1,
       "ingredients": [
         {
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Sledge Hammer",
       "quantity": 1,
       "ingredients": [
         {
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Shiv",
       "quantity": 1,
       "ingredients": [
         {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Flashlight",
       "quantity": 1,
       "ingredients": [
         {
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Hammer",
       "quantity": 1,
       "ingredients": [
         {
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Golf Club",
       "quantity": 1,
       "ingredients": [
         {
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Crowbar",
       "quantity": 1,
       "ingredients": [
         {
@@ -419,7 +419,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Battle Axe",
       "quantity": 1,
       "ingredients": [
         {
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Molotov",
       "quantity": 1,
       "ingredients": [
         {
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Switchblade",
       "quantity": 1,
       "ingredients": [
         {
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Brass Knuckles",
       "quantity": 1,
       "ingredients": [
         {
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Bat",
       "quantity": 1,
       "ingredients": [
         {
@@ -525,7 +525,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Poolcue",
       "quantity": 1,
       "ingredients": [
         {
@@ -547,7 +547,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Pistol EXT Mag",
       "quantity": 1,
       "ingredients": [
         {
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Tier 2 Pistol EXT Mag",
       "quantity": 1,
       "ingredients": [
         {
@@ -591,7 +591,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Pistol Suppressor",
       "quantity": 1,
       "ingredients": [
         {
@@ -617,7 +617,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Tec-9 Drum Mag",
       "quantity": 1,
       "ingredients": [
         {
@@ -639,7 +639,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Pistol",
       "quantity": 1,
       "ingredients": [
         {
@@ -669,7 +669,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Ceramic Pistol",
       "quantity": 1,
       "ingredients": [
         {
@@ -699,7 +699,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Pistol Mk2",
       "quantity": 1,
       "ingredients": [
         {
@@ -733,7 +733,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Browning",
       "quantity": 1,
       "ingredients": [
         {
@@ -763,7 +763,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Heavy Pistol",
       "quantity": 1,
       "ingredients": [
         {
@@ -793,7 +793,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "SMG EXT Mag",
       "quantity": 1,
       "ingredients": [
         {
@@ -815,7 +815,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "SMG Scope",
       "quantity": 1,
       "ingredients": [
         {
@@ -837,7 +837,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "SMG Suppressor",
       "quantity": 1,
       "ingredients": [
         {
@@ -859,7 +859,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Shotgun Suppressor",
       "quantity": 1,
       "ingredients": [
         {
@@ -881,7 +881,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "SMG Flashlight",
       "quantity": 1,
       "ingredients": [
         {
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Rifle EXT Mag",
       "quantity": 1,
       "ingredients": [
         {
@@ -925,7 +925,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Rifle Grip",
       "quantity": 1,
       "ingredients": [
         {
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Rifle Suppressor",
       "quantity": 1,
       "ingredients": [
         {
@@ -969,7 +969,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Junk Rifle",
       "quantity": 1,
       "ingredients": [
         {
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Rifle Scope",
       "quantity": 1,
       "ingredients": [
         {
@@ -1017,7 +1017,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Desert Eagle",
       "quantity": 1,
       "ingredients": [
         {
@@ -1039,7 +1039,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Tec-9",
       "quantity": 1,
       "ingredients": [
         {
@@ -1061,7 +1061,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "G18C",
       "quantity": 1,
       "ingredients": [
         {
@@ -1091,7 +1091,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Mac-10",
       "quantity": 1,
       "ingredients": [
         {
@@ -1113,7 +1113,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "DB Shotgun",
       "quantity": 1,
       "ingredients": [
         {
@@ -1131,7 +1131,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Pump Shotgun",
       "quantity": 1,
       "ingredients": [
         {
@@ -1153,7 +1153,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Carbine Rifle",
       "quantity": 1,
       "ingredients": [
         {
@@ -1175,7 +1175,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Bullpup Rifle",
       "quantity": 1,
       "ingredients": [
         {
@@ -1197,7 +1197,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Compact Rifle",
       "quantity": 1,
       "ingredients": [
         {
@@ -1219,7 +1219,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Combat PDW",
       "quantity": 1,
       "ingredients": [
         {
@@ -1241,7 +1241,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Machine Gun",
       "quantity": 1,
       "ingredients": [
         {
@@ -1263,7 +1263,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Scorpion",
       "quantity": 1,
       "ingredients": [
         {
@@ -1285,7 +1285,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Mk2 Carbine",
       "quantity": 1,
       "ingredients": [
         {
@@ -1307,7 +1307,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Sticky Bomb",
       "quantity": 1,
       "ingredients": [
         {
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Stun Grenade",
       "quantity": 1,
       "ingredients": [
         {
@@ -1351,108 +1351,108 @@
       ]
     },
     {
-      "name": "1",
+      "name": "Bandages",
       "quantity": 1,
       "ingredients": [
         {
-          "item": "5",
-          "quantity": 1
+          "item": "Gauze",
+          "quantity": 5
         },
         {
-          "item": "15",
+          "item": "Medical Tape",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "name": "Radio",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Plastic",
+          "quantity": 20
+        },
+        {
+          "item": "Broken Phone",
+          "quantity": 2
+        },
+        {
+          "item": "Duct Tape",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Med Kit",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Bandages",
+          "quantity": 5
+        },
+        {
+          "item": "Medical Tape",
+          "quantity": 2
+        },
+        {
+          "item": "Gauze",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Lock Pick",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scraps",
+          "quantity": 10
+        },
+        {
+          "item": "Steel",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Advanced Lock Pick",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Lock Pick",
+          "quantity": 2
+        },
+        {
+          "item": "Toolkit",
           "quantity": 1
         }
       ]
     },
     {
-      "name": "1",
+      "name": "Drill Bit",
       "quantity": 1,
       "ingredients": [
         {
-          "item": "20",
-          "quantity": 1
+          "item": "Metal Scraps",
+          "quantity": 6
         },
         {
-          "item": "2",
-          "quantity": 1
-        },
-        {
-          "item": "2",
+          "item": "Steel",
           "quantity": 1
         }
       ]
     },
     {
-      "name": "1",
+      "name": "Storm Ram (10kg)",
       "quantity": 1,
       "ingredients": [
         {
-          "item": "5",
-          "quantity": 1
+          "item": "Metal Scraps",
+          "quantity": 200
         },
         {
-          "item": "2",
-          "quantity": 1
-        },
-        {
-          "item": "2",
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "1",
-      "quantity": 1,
-      "ingredients": [
-        {
-          "item": "10",
-          "quantity": 1
-        },
-        {
-          "item": "10",
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "1",
-      "quantity": 1,
-      "ingredients": [
-        {
-          "item": "2",
-          "quantity": 1
-        },
-        {
-          "item": "1",
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "1",
-      "quantity": 1,
-      "ingredients": [
-        {
-          "item": "6",
-          "quantity": 1
-        },
-        {
-          "item": "1",
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "name": "1",
-      "quantity": 1,
-      "ingredients": [
-        {
-          "item": "200",
-          "quantity": 1
-        },
-        {
-          "item": "10",
-          "quantity": 1
+          "item": "Plastic",
+          "quantity": 10
         }
       ]
     }
