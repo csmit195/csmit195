@@ -1,0 +1,1460 @@
+{
+  "recipes": [
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 15
+        },
+        {
+          "item": "Steel",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Plastic",
+          "quantity": 15
+        },
+        {
+          "item": "Rubber",
+          "quantity": 15
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 5
+        },
+        {
+          "item": "Duct Tape",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 10
+        },
+        {
+          "item": "Steel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Plastic",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 15
+        },
+        {
+          "item": "Steel",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 20
+        },
+        {
+          "item": "Steel",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Plastic",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 5
+        },
+        {
+          "item": "Steel",
+          "quantity": 5
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Powder",
+          "quantity": 10
+        },
+        {
+          "item": "Shotgun Shells",
+          "quantity": 10
+        },
+        {
+          "item": "Plastic",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Powder",
+          "quantity": 10
+        },
+        {
+          "item": "Empty Shells",
+          "quantity": 15
+        },
+        {
+          "item": "Plastic",
+          "quantity": 15
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Powder",
+          "quantity": 15
+        },
+        {
+          "item": "Empty Shells",
+          "quantity": 20
+        },
+        {
+          "item": "Plastic",
+          "quantity": 15
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Plastic",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 15
+        },
+        {
+          "item": "Cloth",
+          "quantity": 10
+        },
+        {
+          "item": "Rubber",
+          "quantity": 10
+        },
+        {
+          "item": "Duct Tape",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Plastic",
+          "quantity": 30
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 20
+        },
+        {
+          "item": "Cloth",
+          "quantity": 15
+        },
+        {
+          "item": "Rubber",
+          "quantity": 10
+        },
+        {
+          "item": "Duct Tape",
+          "quantity": 2
+        },
+        {
+          "item": "Heavy Plate",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Cloth",
+          "quantity": 45
+        },
+        {
+          "item": "Plastic",
+          "quantity": 30
+        },
+        {
+          "item": "Leather",
+          "quantity": 20
+        },
+        {
+          "item": "Duct Tape",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 10
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 20
+        },
+        {
+          "item": "Plastic",
+          "quantity": 10
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 20
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 40
+        },
+        {
+          "item": "Steel",
+          "quantity": 5
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 10
+        },
+        {
+          "item": "Rubber",
+          "quantity": 5
+        },
+        {
+          "item": "Broken Torch",
+          "quantity": 2
+        },
+        {
+          "item": "Duct Tape",
+          "quantity": 1
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Rubber",
+          "quantity": 30
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 10
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 10
+        },
+        {
+          "item": "Rubber",
+          "quantity": 10
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 5
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Rubber",
+          "quantity": 10
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 5
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "XXXX Gold",
+          "quantity": 1
+        },
+        {
+          "item": "Cloth",
+          "quantity": 1
+        },
+        {
+          "item": "Lighter",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 25
+        },
+        {
+          "item": "Steel",
+          "quantity": 10
+        },
+        {
+          "item": "Metal Spring",
+          "quantity": 1
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Brass",
+          "quantity": 35
+        },
+        {
+          "item": "Steel",
+          "quantity": 10
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 1
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 30
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 20
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 1
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Lvl 25 Lumber",
+          "quantity": 5
+        },
+        {
+          "item": "Wood Plank",
+          "quantity": 5
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 1
+        },
+        {
+          "item": "Melee Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 30
+        },
+        {
+          "item": "Steel",
+          "quantity": 10
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 1
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 30
+        },
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 2
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 30
+        },
+        {
+          "item": "Steel",
+          "quantity": 15
+        },
+        {
+          "item": "Rubber",
+          "quantity": 20
+        },
+        {
+          "item": "Plastic",
+          "quantity": 20
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steelwwwwwwwits just coms",
+          "quantity": 50
+        },
+        {
+          "item": "Metal Scraps",
+          "quantity": 35
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 5
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Barrel",
+          "quantity": 1
+        },
+        {
+          "item": "Metal Spring",
+          "quantity": 1
+        },
+        {
+          "item": "Firing Pin",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Frame",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Grip",
+          "quantity": 1
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Barrel",
+          "quantity": 1
+        },
+        {
+          "item": "Metal Springs",
+          "quantity": 1
+        },
+        {
+          "item": "Firing Pin",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Frame",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Grip",
+          "quantity": 1
+        },
+        {
+          "item": "Tier 1 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Barrel",
+          "quantity": 1
+        },
+        {
+          "item": "Metal Spring",
+          "quantity": 1
+        },
+        {
+          "item": "Firing Pin",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Frame",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Grip",
+          "quantity": 1
+        },
+        {
+          "item": "Metal Scraps",
+          "quantity": 25
+        },
+        {
+          "item": "Tier 1 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Barrel",
+          "quantity": 1
+        },
+        {
+          "item": "Metal Spring",
+          "quantity": 1
+        },
+        {
+          "item": "Firing Pin",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Frame",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Grip",
+          "quantity": 1
+        },
+        {
+          "item": "Browning Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Barrel",
+          "quantity": 1
+        },
+        {
+          "item": "Metal Spring",
+          "quantity": 1
+        },
+        {
+          "item": "Firing Pin",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Frame",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Grip",
+          "quantity": 1
+        },
+        {
+          "item": "Tier 1 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 35
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 25
+        },
+        {
+          "item": "Hydrochloric Acid",
+          "quantity": 1
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 45
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 15
+        },
+        {
+          "item": "Binoculars",
+          "quantity": 1
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 55
+        },
+        {
+          "item": "Rubber",
+          "quantity": 35
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 27
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 50
+        },
+        {
+          "item": "Steel",
+          "quantity": 35
+        },
+        {
+          "item": "Rubber",
+          "quantity": 25
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 20
+        },
+        {
+          "item": "Steel",
+          "quantity": 15
+        },
+        {
+          "item": "Broken Torch",
+          "quantity": 1
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 20
+        },
+        {
+          "item": "Rubber",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 20
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Steel",
+          "quantity": 25
+        },
+        {
+          "item": "Rubber",
+          "quantity": 20
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 15
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 50
+        },
+        {
+          "item": "Steel",
+          "quantity": 35
+        },
+        {
+          "item": "Rubber",
+          "quantity": 25
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Lvl 25 Lumber",
+          "quantity": 50
+        },
+        {
+          "item": "Plastic",
+          "quantity": 30
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 15
+        },
+        {
+          "item": "Rubber",
+          "quantity": 10
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 40
+        },
+        {
+          "item": "Steel",
+          "quantity": 30
+        },
+        {
+          "item": "Binoculars",
+          "quantity": 1
+        },
+        {
+          "item": "Weapons Sheet",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 80
+        },
+        {
+          "item": "Steel",
+          "quantity": 30
+        },
+        {
+          "item": "Rubber",
+          "quantity": 15
+        },
+        {
+          "item": "Tier 2 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 85
+        },
+        {
+          "item": "Steel",
+          "quantity": 25
+        },
+        {
+          "item": "Rubber",
+          "quantity": 20
+        },
+        {
+          "item": "Tier 2 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 115
+        },
+        {
+          "item": "Steel",
+          "quantity": 35
+        },
+        {
+          "item": "Rubber",
+          "quantity": 20
+        },
+        {
+          "item": "Pistol Grip",
+          "quantity": 1
+        },
+        {
+          "item": "Pistol Frame",
+          "quantity": 1
+        },
+        {
+          "item": "G18C Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 30
+        },
+        {
+          "item": "Rubber",
+          "quantity": 30
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 35
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Rubber",
+          "quantity": 30
+        },
+        {
+          "item": "Steel",
+          "quantity": 35
+        },
+        {
+          "item": "Pump Shotgun Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 50
+        },
+        {
+          "item": "Rubber",
+          "quantity": 40
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 60
+        },
+        {
+          "item": "Rubber",
+          "quantity": 45
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 30
+        },
+        {
+          "item": "Rubber",
+          "quantity": 10
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 30
+        },
+        {
+          "item": "Rubber",
+          "quantity": 25
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 75
+        },
+        {
+          "item": "Rubber",
+          "quantity": 35
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 30
+        },
+        {
+          "item": "Rubber",
+          "quantity": 25
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 100
+        },
+        {
+          "item": "Steel",
+          "quantity": 50
+        },
+        {
+          "item": "Rubber",
+          "quantity": 10
+        },
+        {
+          "item": "Tier 3 Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Gun Powder",
+          "quantity": 200
+        },
+        {
+          "item": "Metal Scrap",
+          "quantity": 40
+        },
+        {
+          "item": "Rubber",
+          "quantity": 40
+        },
+        {
+          "item": "IED Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "Metal Scrap",
+          "quantity": 40
+        },
+        {
+          "item": "Gun Powder",
+          "quantity": 20
+        },
+        {
+          "item": "Steel",
+          "quantity": 6
+        },
+        {
+          "item": "IED Blueprint",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "5",
+          "quantity": 1
+        },
+        {
+          "item": "15",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "20",
+          "quantity": 1
+        },
+        {
+          "item": "2",
+          "quantity": 1
+        },
+        {
+          "item": "2",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "5",
+          "quantity": 1
+        },
+        {
+          "item": "2",
+          "quantity": 1
+        },
+        {
+          "item": "2",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "10",
+          "quantity": 1
+        },
+        {
+          "item": "10",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "2",
+          "quantity": 1
+        },
+        {
+          "item": "1",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "6",
+          "quantity": 1
+        },
+        {
+          "item": "1",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "quantity": 1,
+      "ingredients": [
+        {
+          "item": "200",
+          "quantity": 1
+        },
+        {
+          "item": "10",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
