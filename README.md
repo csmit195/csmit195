@@ -11,8 +11,9 @@ Skills: HTML / CSS / JS / NodeJS / PHP / MYSQL / AHK / LUA
 - 👯 I’m looking to collaborate on VS Code 
 - 🤔 I’m looking for help with my crazy life? 
 - 💬 Ask me about literally anything 
-- 📫 How to reach me: csmit195#4729 
-- ⚡ Fun fact: I love lua. 
+- 📫 Contact me on discord: csmit195 
+- ⚡ Fun fact: I love lua.
+- 🥳 I am 28 years old!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csmit195)  
