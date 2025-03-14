@@ -13,7 +13,7 @@ Skills: HTML / CSS / JS / NodeJS / PHP / MYSQL / AHK / LUA
 - 💬 Ask me about literally anything 
 - 📫 Contact me on discord: csmit195 
 - ⚡ Fun fact: I love lua.
-- 🥳 I am 28 years old!
+- 🥳 I am 28 years old! I'm a guy! and I'm an atheist!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csmit195)  
