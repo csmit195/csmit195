@@ -11,7 +11,7 @@
   <!-- Divider -->
   <line x1="50" y1="150" x2="950" y2="150" stroke="#333" stroke-width="2" />
 
-  <!-- Features Grid (Moved down to prevent overlap) -->
+  <!-- Features Grid -->
   <g transform="translate(50, 190)">
      <!-- Feature 1 -->
      <rect x="0" y="0" width="280" height="80" rx="8" fill="#252525" />
@@ -26,6 +26,7 @@
      <!-- Feature 3 -->
      <rect x="610" y="0" width="280" height="80" rx="8" fill="#252525" />
      <text x="750" y="35" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">🪙 CRYPTO / PAYID</text>
-     <text x="750" y="60" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#999">Local & Anon Methods</text>
+     <!-- Fixed Ampersand Below -->
+     <text x="750" y="60" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#999">Local &amp; Anon Methods</text>
   </g>
 </svg>
