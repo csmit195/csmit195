@@ -1,15 +1,16 @@
 <svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
   <rect width="1000" height="240" fill="#181818" />
   
-  <rect x="20" y="10" width="960" height="220" rx="8" fill="#202020" stroke="#333" stroke-width="1"/>
+  <rect x="20" y="10" width="960" height="220" rx="6" fill="#202020" stroke="#333" stroke-width="1"/>
   
-  <text x="50" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">TERMS & INFORMATION</text>
+  <!-- FIXED: & changed to &amp; -->
+  <text x="50" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">TERMS &amp; INFORMATION</text>
   
   <g transform="translate(50, 80)">
-      <text x="0" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#ccc">1. <tspan fill="#fff" font-weight="bold">No Refunds:</tspan> All sales are final due to the nature of digital keys.</text>
-      <text x="0" y="30" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#ccc">2. <tspan fill="#fff" font-weight="bold">Support:</tspan> Available via Discord. I respond as soon as I am awake.</text>
-      <text x="0" y="60" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#ccc">3. <tspan fill="#fff" font-weight="bold">PayID/Wise:</tspan> These are manually checked. Usually done within 10 mins of alert.</text>
-      <text x="0" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#ccc">4. <tspan fill="#fff" font-weight="bold">Fees:</tspan> Crypto/PayPal fees are handled automatically by the gateway.</text>
-      <text x="0" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#ccc">5. <tspan fill="#fff" font-weight="bold">Privacy:</tspan> We do not store your data. Reselling is done via secure channels.</text>
+      <text x="0" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#aaa">1. <tspan fill="#ddd" font-weight="bold">No Refunds:</tspan> Digital keys are non-refundable once delivered.</text>
+      <text x="0" y="30" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#aaa">2. <tspan fill="#ddd" font-weight="bold">Support:</tspan> I am based in Australia. Support is provided ASAP via Discord.</text>
+      <text x="0" y="60" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#aaa">3. <tspan fill="#ddd" font-weight="bold">Manual Payments:</tspan> PayID/Wise orders are checked manually. Please allow brief processing time.</text>
+      <text x="0" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#aaa">4. <tspan fill="#ddd" font-weight="bold">Fees:</tspan> Crypto network fees and PayPal fees are automatically calculated at checkout.</text>
+      <text x="0" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#aaa">5. <tspan fill="#ddd" font-weight="bold">Security:</tspan> We do not store payment details. All transactions are secure.</text>
   </g>
 </svg>
