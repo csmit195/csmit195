@@ -1,17 +1,12 @@
 <svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="150" fill="#141414" />
+  <rect width="1000" height="150" fill="#181818" />
   
-  <!-- Content -->
-  <g transform="translate(50, 40)">
-      <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#666">CONTACT & SUPPORT</text>
+  <line x1="50" y1="20" x2="950" y2="20" stroke="#333" stroke-width="2" />
+  
+  <g transform="translate(50, 60)">
+      <text x="0" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#cccccc">Need Help or PayID?</text>
+      <text x="0" y="55" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#7289DA" font-weight="bold">Discord: csmit195</text>
       
-      <!-- Discord -->
-      <text x="0" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ffffff">Discord: <tspan fill="#7289DA" font-weight="bold">csmit195</tspan></text>
-      
-      <!-- Store Link -->
-      <text x="350" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ffffff">Store: <tspan fill="#4CAF50" font-weight="bold">store.csmit195.com/resell</tspan></text>
-      
-      <!-- Note -->
-      <text x="0" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#444">* PayID orders are processed manually but alerts are received instantly. Crypto/PayPal is automatic.</text>
+      <text x="900" y="55" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#4CAF50" font-weight="bold">store.csmit195.com/resell</text>
   </g>
 </svg>
