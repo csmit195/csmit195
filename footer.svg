@@ -1,0 +1,17 @@
+<svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="150" fill="#141414" />
+  
+  <!-- Content -->
+  <g transform="translate(50, 40)">
+      <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#666">CONTACT & SUPPORT</text>
+      
+      <!-- Discord -->
+      <text x="0" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ffffff">Discord: <tspan fill="#7289DA" font-weight="bold">csmit195</tspan></text>
+      
+      <!-- Store Link -->
+      <text x="350" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ffffff">Store: <tspan fill="#4CAF50" font-weight="bold">store.csmit195.com/resell</tspan></text>
+      
+      <!-- Note -->
+      <text x="0" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#444">* PayID orders are processed manually but alerts are received instantly. Crypto/PayPal is automatic.</text>
+  </g>
+</svg>

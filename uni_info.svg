@@ -1,0 +1,23 @@
+<svg width="750" height="170" viewBox="0 0 750 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="750" height="170" fill="#141414" />
+  
+  <!-- Card Shape -->
+  <path d="M 50 10 Q 50 10 60 10 L 750 10 L 750 160 L 60 160 Q 50 160 50 150 Z" fill="#252525" stroke="#333" stroke-width="1"/>
+  <line x1="750" y1="10" x2="750" y2="160" stroke="#252525" stroke-width="2"/>
+
+  <!-- Title -->
+  <text x="90" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">UNIVERSAL API</text>
+  <text x="90" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#888888">Lua API • Developer Friendly</text>
+
+  <!-- Pricing Table -->
+  <line x1="400" y1="30" x2="400" y2="140" stroke="#444" stroke-width="1" />
+  
+  <text x="430" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cccccc">14 Days</text>
+  <text x="530" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">$54 AUD</text>
+  
+  <text x="430" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cccccc">1 Month</text>
+  <text x="530" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">$95 AUD</text>
+  
+  <text x="430" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cccccc">3 Months</text>
+  <text x="530" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">$245 AUD</text>
+</svg>

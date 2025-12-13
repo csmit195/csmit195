@@ -1,0 +1,16 @@
+<svg width="250" height="140" viewBox="0 0 250 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="250" height="140" fill="#141414" />
+  
+  <!-- Card Shape (Right Side) -->
+  <path d="M 0 10 L 190 10 Q 200 10 200 20 L 200 120 Q 200 130 190 130 L 0 130 Z" fill="#252525" stroke="#333" stroke-width="1"/>
+  <line x1="0" y1="10" x2="0" y2="130" stroke="#252525" stroke-width="2"/> <!-- Hide left border seam -->
+
+  <!-- Button Rect -->
+  <rect x="30" y="45" width="140" height="50" rx="4" fill="#eeeeee" />
+  
+  <!-- Button Text -->
+  <text x="100" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="bold" fill="#141414">BUY NOW ➜</text>
+  
+  <!-- Hover hint (static) -->
+  <rect x="30" y="45" width="140" height="50" rx="4" fill="black" fill-opacity="0" stroke="#fff" stroke-width="0"/>
+</svg>
