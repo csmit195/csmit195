@@ -11,33 +11,33 @@ if not exist "%INK%" (
     exit /b
 )
 
-echo [START] Converting to PNG (Native Mode)...
+echo [START] Converting to PNG (Native Mode) - Running in parallel...
 
-"%INK%" "header.svg" --export-type=png -o "header.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
+:: Start all conversions in parallel
+start /B "" "%INK%" "header.svg" --export-type=png -o "header.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "cs2_info.svg" --export-type=png -o "cs2_info.png" --export-width=720 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "cs2_btn.svg" --export-type=png -o "cs2_btn.png" --export-width=240 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "uni_info.svg" --export-type=png -o "uni_info.png" --export-width=720 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "uni_btn.svg" --export-type=png -o "uni_btn.png" --export-width=240 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "payments.svg" --export-type=png -o "payments.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "tos.svg" --export-type=png -o "tos.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "testimonials.svg" --export-type=png -o "testimonials.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
+start /B "" "%INK%" "footer.svg" --export-type=png -o "footer.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
+
+:: Wait for all inkscape processes to complete
+:wait_loop
+timeout /t 1 /nobreak >nul 2>&1
+tasklist /FI "IMAGENAME eq inkscape.com" 2>nul | find /I /N "inkscape.com">nul
+if "%ERRORLEVEL%"=="0" goto wait_loop
+
 echo - header.png
-
-"%INK%" "cs2_info.svg" --export-type=png -o "cs2_info.png" --export-width=720 --export-background="#181818" --export-background-opacity=255
 echo - cs2_info.png
-
-"%INK%" "cs2_btn.svg" --export-type=png -o "cs2_btn.png" --export-width=240 --export-background="#181818" --export-background-opacity=255
 echo - cs2_btn.png
-
-"%INK%" "uni_info.svg" --export-type=png -o "uni_info.png" --export-width=720 --export-background="#181818" --export-background-opacity=255
 echo - uni_info.png
-
-"%INK%" "uni_btn.svg" --export-type=png -o "uni_btn.png" --export-width=240 --export-background="#181818" --export-background-opacity=255
 echo - uni_btn.png
-
-"%INK%" "payments.svg" --export-type=png -o "payments.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
 echo - payments.png
-
-"%INK%" "tos.svg" --export-type=png -o "tos.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
 echo - tos.png
-
-"%INK%" "testimonials.svg" --export-type=png -o "testimonials.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
 echo - testimonials.png
-
-"%INK%" "footer.svg" --export-type=png -o "footer.png" --export-width=1000 --export-background="#181818" --export-background-opacity=255
 echo - footer.png
 
 echo.

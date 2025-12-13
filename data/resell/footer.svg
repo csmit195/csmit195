@@ -6,10 +6,9 @@
   
   <!-- Centered content -->
   <g transform="translate(500, 50)">
-    <!-- Links -->
-    <text x="-120" y="0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#aaa">GitHub</text>
-    <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#aaa">Discord</text>
-    <text x="120" y="0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#aaa">Store</text>
+    <text x="-200" y="0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#888">GitHub: <tspan fill="#aaa">csmit195</tspan></text>
+    <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#888">Discord: <tspan fill="#aaa">csmit195</tspan></text>
+    <text x="200" y="0" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#888">Store: <tspan fill="#aaa">store.csmit195.com/resell</tspan></text>
   </g>
   
   <!-- Copyright -->
