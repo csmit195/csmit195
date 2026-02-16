@@ -21,6 +21,9 @@
 #### // STATS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=csmit195&theme=radical&hide_border=true)
 
+#### // SUPPORT
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/csmit195)
+
 #### // CONTACT
 - **Discord**: `csmit195`
 - **Fun Fact**: Obsessed with Lua and efficiency.
