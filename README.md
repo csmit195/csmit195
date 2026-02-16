@@ -1,10 +1,10 @@
 ### `csmit195` // Chris
 
-> Developer & Web Security Enthusiast | Brisbane, AU
+> Developer & Security Enthusiast | Brisbane, AU
 
 ```bash
 # Coding since age 8
-# Automation / Web Security / Game Tooling
+# Automation / Security / Game Tooling
 # Stack: TypeScript, Lua, Svelte, C++, AHK
 ```
 
