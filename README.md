@@ -1,24 +1,26 @@
 ### Hi there 👋, my name is Chris!
-#### I create free and beautiful things.
-![I create free and beautiful things.](https://i.imgur.com/rcK5C0a.png)
 
-I first started learning to code when I was 8 years old, since then I've been involved in many different communities and used my experience to develop new and innovative creations. I can confidently say that I've had a positive impact on every community I've contributed too, and will continue to do so.
+I'm a developer and web security enthusiast based in Brisbane, Australia. I've been coding since I was 8, building tools that make life easier and digital experiences better.
 
-Skills: HTML / CSS / JS / NodeJS / PHP / MYSQL / AHK / LUA
+#### 🛠️ What I'm Building
+- **[gptdarr](https://github.com/csmit195/gptdarr)** - MCP Server for Sonarr/Radarr automation.
+- **[lastwar](https://github.com/csmit195/lastwar)** - High-performance tools and guides for Last War.
+- **[pcx-polyfill-patcher](https://github.com/csmit195/pcx-polyfill-patcher)** - Automated PCX Polyfill application.
+- **[rm-plex-activity-skin](https://github.com/csmit195/rm-plex-activity-skin)** - Modern Rainmeter UI for Tautulli/Plex.
+- **[CS2-Stalk-Bot](https://github.com/csmit195/CS2-Stalk-Bot)** - External progression and stat tracking.
 
-- 🔭 I’m currently working on myself 
-- 🌱 I’m currently learning a bit of everything 
-- 👯 I’m looking to collaborate on VS Code 
-- 🤔 I’m looking for help with my crazy life? 
-- 💬 Ask me about literally anything 
-- 📫 Contact me on discord: csmit195 
-- ⚡ Fun fact: I love lua.
-- 🥳 I am 28 years old! I'm a guy! and I'm an atheist!
+#### 💻 Tech Stack
+**Languages:** TypeScript, JavaScript, Lua, Svelte, AutoHotkey, Shell, C++  
+**Focus:** Automation, Web Security, Media Management, Game Tooling
 
+#### 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csmit195&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=csmit195&theme=radical&hide_border=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csmit195)  
+#### 💬 Get in Touch
+- **Discord:** csmit195
+- **Web:** [csmit195.com](https://csmit195.com)
+- **Fun Fact:** I'm obsessed with Lua and efficiency.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csmit195)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=csmit195)  
-
+---
+*Self-updating via OpenClaw.*
